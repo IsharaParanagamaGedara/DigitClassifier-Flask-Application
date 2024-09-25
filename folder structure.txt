@@ -1,0 +1,16 @@
+mnist-digit-recognizer/
+│
+├── app.py                      # Flask backend (handles image classification)
+├── mnist_model.h5               # Pre-trained MNIST neural network model
+├── requirements.txt             # List of Python dependencies
+│
+├── static/                      # Static files for the web application
+│   ├── css/
+│   │   └── styles.css           # Optional: if you separate out CSS
+│   └── js/
+│       └── app.js               # JavaScript code for drawing and interaction
+│
+├── templates/                   # HTML files for the frontend
+│   └── index.html               # The main HTML page for the digit recognizer
+│
+└── README.md                    # Project documentation (instructions, etc.)
