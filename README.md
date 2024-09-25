@@ -2,6 +2,15 @@
 
 This interactive platform allows users to draw digits and classify them using a neural network trained on the MNIST dataset. It provides a hands-on experience of how neural networks can recognize handwritten digits. 
 
+## Preview
+Below are previews of the digit classifier in action:
+
+![DigitClassifier Preview-1](images_digitclassifier/img-01.png)
+A user drawing a digit.
+
+![DigitClassifier Preview-2](images_digitclassifier/img-02.png)
+The prediction result after classification.
+
 ## Table of Contents
 - [Features](#features)
 - [Tech Stack](#tech-stack)
